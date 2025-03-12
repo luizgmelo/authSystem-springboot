@@ -4,7 +4,7 @@
  <a href="#tech">Technologies</a> • 
  <a href="#started">Getting Started</a> • 
   <a href="#routes">API Endpoints</a> •
- <a href="#colab">Contact</a> •
+ <a href="#contact">Contact</a> •
 </p>
 
 <p align="center">
@@ -107,3 +107,10 @@ Here you can list the main routes of your API, and what are their expected reque
   Administrator Authentication success!
 }
 ```
+
+<h3 id="contact">Contacts</h3>
+
+<p align='left'>
+   <a href="https://www.linkedin.com/in/luiz-g-melo/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;      
+  <a href="mailto:luizgmelo64@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:luizgmelo64@gmail.com"></a>&nbsp;&nbsp;
+ </p>
